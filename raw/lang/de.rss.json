@@ -1,7 +1,9 @@
 [
 "https://www.morgenpost.de/rss",
+"https://www.lvz.de/arc/outboundfeeds/rss/",
 "https://www.tagesschau.de/xml/rss2/",
 "https://www.mdr.de/nachrichten/mdr-homepage-146-rss.xml",
+"https://rp-online.de/feed.rss",
 "https://www.n-tv.de/rss",
 "https://www.n-tv.de/politik/rss",
 "https://www.welt.de/feeds/topnews.rss",
@@ -36,7 +38,6 @@
 "https://de.euronews.com/rss?format=mrss&level=vertical&name=my-europe",
 "https://taz.de/rss.xml",
 "https://www.nzz.ch/recent.rss",
-"https://www.berliner-zeitung.de/feed.xml",
 "https://www.ruhrnachrichten.de/feed/",
 "https://www.hellwegeranzeiger.de/feed/",
 "https://www.derwesten.de/rss",
